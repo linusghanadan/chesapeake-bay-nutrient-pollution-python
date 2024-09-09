@@ -1,6 +1,6 @@
 ## Time Series Analysis of Nutrient Concentration in Chesapeake Bay
 
-### [Link to Blog (includes Python code, code output, and written analysis)]
+### [Link to Blog (includes Python code, code output, and written analysis)](https://linusghanadan.github.io/blog/2024-8-20-post/time-series.html)
 
 ### Repository Contents
     chesapeake_bay_nutrient_pollution_python
@@ -12,7 +12,7 @@
 
 ### Context
 
-This project was completed as a final project for my Statistics class, taken as part of my Master's program at UC Santa Barbara. I worked independently to find data, pose a statistical question, and carry out analysis using appropriate modeling techniques. Originally, this analysis was conducted in R (Link to R Code Repository), but I decided to reproduce this analysis to practice my Python skills working with large datasets and building statistical models with the statsmodels library.
+This project was completed as a final project for my Statistics class, taken as part of my Master's program at UC Santa Barbara. I worked independently to find data, pose a statistical question, and carry out analysis using appropriate modeling techniques. Originally, this analysis was conducted in R, but I decided to reproduce this analysis to practice my Python skills working with large datasets and building statistical models with the statsmodels library.
 
 ### Question
 
