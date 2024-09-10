@@ -1,6 +1,6 @@
 ## Time Series Analysis of Nutrient Concentration in Chesapeake Bay
 
-### [Link to Blog (includes Python code, code output, and written analysis)](https://linusghanadan.github.io/blog/2024-8-20-post/time-series.html)
+### [Link to Blog (includes Python code, code output, and written analysis)](https://linusghanadan.github.io/blog/2024-8-20-post/chesapeake-bay-python.html)
 
 ### Repository Contents
     chesapeake_bay_nutrient_pollution_python
