@@ -12,7 +12,7 @@
 
 ### Context
 
-This project was completed as a final project for my Statistics class, taken as part of my Master's program at UC Santa Barbara. I worked independently to find data, pose a statistical question, and carry out analysis using appropriate modeling techniques. Originally, this analysis was conducted in R (see original [repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution) and [blog post](https://linusghanadan.github.io/blog/2023-12-12-post/)), but I decided to reproduce this analysis to practice my Python skills working with large datasets and building statistical models with the statsmodels library.
+This project was completed as a final project for my Statistics class, taken as part of my Master's program at UC Santa Barbara. I worked independently to find data, pose a statistical question, and carry out analysis using appropriate modeling techniques. Originally, this analysis was conducted in R (see original [repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution) and [blog](https://linusghanadan.github.io/blog/2023-12-12-post/)), but I decided to reproduce this analysis to practice my Python skills working with large datasets and building statistical models with the statsmodels library.
 
 ### Question
 
