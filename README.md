@@ -16,7 +16,7 @@ For this final project in my master’s statistics course at UC Santa Barbara, I
 
 ### Central Question
 
-Over the ten years that followed the onset of new regulations, what linear trends best capture how average nitrogen and phosphorus concentrations have changed in the Chespeake Bay?
+Over the ten years that followed the onset of new regulations in 2010, what linear trends best capture how average nitrogen and phosphorus concentrations have changed in the Chespeake Bay?
 
 ### Summary of Analysis
 
