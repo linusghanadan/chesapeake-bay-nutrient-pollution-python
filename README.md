@@ -12,7 +12,7 @@
 
 ### Context
 
-This project was completed as a final project for my statistics class, taken as part of my master's program at UC Santa Barbara. I worked independently to find data, pose a question, and carry out analysis using appropriate statistical modeling techniques.
+This project was completed as a final project for my statistics class, taken as part of my master's program at UC Santa Barbara. I worked independently to find data, pose a question, and carry out analysis using statistical modeling techniques and Python.
 
 ### Central Question
 
