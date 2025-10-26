@@ -2,6 +2,10 @@
 
 ### [Link to Blog (includes Python code, code output, and written analysis)](https://linusghanadan.github.io/blog/2024-8-20-post/chesapeake-bay-python.html)
 
+### Context
+
+This project was completed as my final project for my Statistics class, taken as part of my Master's program at UC Santa Barbara. The central question, data used, and statistical modeling techniques employed were entirely self-driven. Graded deliverables included a blog post and 10-minute class presentation.
+
 ### Repository Contents
     chesapeake_bay_nutrient_pollution_python
     └───images
@@ -16,13 +20,7 @@ Over the ten years that followed the onset of new regulations in 2010, what line
 
 ### Summary of Analysis
 
-For his final project in his Master's statistics course, Linus conducted a self-guided time series analysis of nitrogen and phosphorus concentrations in the Chesapeake Bay, studying data from over 43,000 automated readings taken between 2010 and 2019.
-
-In 2010, the Chesapeake Bay area began implementing Total Maximum Daily Load (TMDL) under the Clean Water Act. Through isolating seasonal and non-seasonal trends in pollutant concentration data, Linus's goal was to better understand the effectiveness of the TMDL regulation.
-
-STL decomposition models were used to conduct this analysis, which involved tuning season length based on the autocorrelation of time lags. Based on selected season length, STL models use multilinear regression to separate variation in the data into three distinct components: Seasonality, Trend (intra-seasonal variation), and Residual/Randomness (inter-seasonal variation). Using the models, Linus visualized the three model components comparatively, allowing him to identify early 2014 as a localized event with a spike in nitrogen that the model attributed to the Residual/Randomness component.
-
-Moreover, from running regressions with the resulting model parameters, Linus came to the conclusion that the overall non-seasonal trend from 2010 to 2019 was slightly negative for both pollutants. He also found that phosphorus had very distinct seasonality, with seasonality explaining 87% of the variation in concentrations. For nitrogen, seasonality explained 73% of variation.
+Investigated trends in nitrogen and phosphorus concentrations using 43,000 automated sensor readings from 2010 to 2019. Cleaned and processed time series data, and built STL decomposition models. Tuned season length based on autocorrelation of time lags. Visualized model parameters, ran regressions, and interpreted results.
 
 ### Datasets
 - 2010-2019 Chesapeake Bay Program (CBP) Traditional Partner Tidal XLSXs
